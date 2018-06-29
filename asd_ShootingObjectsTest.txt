@@ -1,0 +1,5 @@
+Bullets Fired: 0.0
+Bullets Hit: 0.0
+Accuracy: 100.0%
+Targets Destroyed: 0
+Points: 0
